@@ -3,4 +3,8 @@ name = "ykmaptest"
 version = "0.1.0"
 authors = ["Edd Barrett <vext01@gmail.com>"]
 
+
 [dependencies]
+ykstackmaps = {path = "../ykstackmaps"}
+hwtracer = {path = "../hwtracer"}
+fizzbuzz = {path = "fizzbuzz"}
